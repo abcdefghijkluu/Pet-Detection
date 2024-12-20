@@ -1,0 +1,1 @@
+Developed a motion-activated camera system using Raspberry Pi 4, Camera Module 3, and PIR motion sensor. Implemented Python scripts to capture images upon motion detection when my beloved dog would enter my room and send email alerts with attachments. Utilized hardware-software integration and SMTP for real-time notifications.
